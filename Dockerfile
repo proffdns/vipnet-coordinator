@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM ubuntu:latest
 MAINTAINER Denis Malyshev <proffdns@mail.ru>
 ENV DEBIAN_FRONTEND noninteractive
 #
